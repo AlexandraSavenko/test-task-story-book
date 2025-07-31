@@ -31,6 +31,11 @@ Password visibility toggle (eye icon)
 Optional clearable prop to show a clear button
 
 Screenshots:
+- Password with toggle  
+![Password Input](./public/passwordHidden.png)
+![Password Input](./public/passwordShown.png)
+
+![Clearable](./public/clearable.png)
 
 Text input
 
@@ -51,6 +56,9 @@ Optional manual close button
 
 Screenshots:
 
+- Toaster
+![Toaster warning](./public/warning.png)
+
 Success toast
 
 Error toast
@@ -67,6 +75,9 @@ Supports nested submenus (accordion/expandable)
 Closes when background is clicked
 
 Screenshots:
+- Sidebar 
+![Sidebar](./public/SidebarOpen.png)
+![Sidebar](./public/SidebarTwo.png)
 
 Sidebar closed
 
@@ -75,13 +86,6 @@ Sidebar open with 1-level menu
 Sidebar open with 2-level nested menu
 
 
-- Password with toggle  
-![Password Input](./public/passwordHidden.png)
-![Password Input](./public/passwordShown.png)
 
-- Toaster
-![Toaster warning](./public/warning.png)
 
-- Sidebar 
-![Sidebar](./public/SidebarOpen.png)
-![Sidebar](./public/SidebarTwo.png)
+
